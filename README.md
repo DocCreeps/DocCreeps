@@ -14,7 +14,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
 
-### Mes passe temps  
+### :sunglasses: Mes passes temps  
 <ul>
   <li>:joystick: Les jeux vidéo </li> 
   <li>:film_strip: Cinéma </li> 
