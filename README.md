@@ -12,4 +12,9 @@
   HTML,CSS,PHP,JS,SQL,JAVA,VBA,C#,C++  
   :man_student: Pyhton, graphql, typescripte
 
-<a href="https://github.com/anuraghazra/github-readme-stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
+
+### Mes passe temps  
+
+:joystick: :film_strip:  :blue_book:  
+
