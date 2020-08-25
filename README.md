@@ -16,10 +16,9 @@
   &nbsp;![PHP](https://img.shields.io/badge/-PHP-1B8ECF?style=for-the-badge&logo=PHP&logoColor=white)
   &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-EBE148?style=for-the-badge&logo=JavaScript&logoColor=white)
   &nbsp;![SQL](https://img.shields.io/badge/-SQL-14C24B?style=for-the-badge&logo=MySQL&logoColor=white)
-  &nbsp;![JAVA](https://img.shields.io/badge/-JAVA-F74B00?style=for-the-badge&logo=JAVA&logoColor=white)
-  &nbsp;![VBA](https://img.shields.io/badge/-VBA-007CF7?style=for-the-badge&logo=VBA&logoColor=white)  
+  &nbsp;![JAVA](https://img.shields.io/badge/-JAVA-F74B00?style=for-the-badge&logo=JAVA&logoColor=white)  
 
- C#,C++  
+
   :man_student: &nbsp;![PYTHON](https://img.shields.io/badge/-PYTHON-D8C802?style=for-the-badge&logo=PYTHON&logoColor=white) 
   &nbsp;![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-CF72E1?style=for-the-badge&logo=GRAPHQL&logoColor=white) 
   &nbsp;![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-007CF7?style=for-the-badge&logo=TYPESCRIPT&logoColor=white) 
