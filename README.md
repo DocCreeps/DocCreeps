@@ -36,4 +36,4 @@
   <li>:joystick: Les jeux vidéo </li> 
   <li>:film_strip: Cinéma </li> 
   <li>:blue_book:  Lecture </li>
-</ul>
+</ul>  
