@@ -7,8 +7,9 @@
 ### 📫 Me contacter : 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorian.vericel0546@gmail.com)
 &nbsp;[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-vericel-576461180/) 
-
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)  
+-->
 
 ### :books: Les langages que je connais: 
   ![HTML](https://img.shields.io/badge/-HTML-FA7A3E?style=for-the-badge&logo=HTML5&logoColor=white) 
@@ -27,9 +28,9 @@
   ![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
   &nbsp;![SYMFONY](https://img.shields.io/badge/-SYMFONY-007CF7?style=for-the-badge&logo=SYMFONY&logoColor=white) 
   &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
-
+-->
 ### :sunglasses: Mes passes temps  
 <ul>
   <li>:joystick: Les jeux vidéo </li> 
