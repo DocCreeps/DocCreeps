@@ -26,7 +26,7 @@
   &nbsp;![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-CF72E1?style=for-the-badge&logo=GRAPHQL&logoColor=white) 
   &nbsp;![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-007CF7?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)  
   
-#### Framework déja utilisée   
+#### Framework déja utilisée :  
   ![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
   &nbsp;![SYMFONY](https://img.shields.io/badge/-SYMFONY-007CF7?style=for-the-badge&logo=SYMFONY&logoColor=white) 
   &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)
