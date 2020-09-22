@@ -28,17 +28,17 @@
   &nbsp;![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-007CF7?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)  
   
 #### Framework déja utilisée :  
-  ![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
+  ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-023e8a?style=for-the-badge&logo=BOOTSTRAP&logoColor=white) 
+  &nbsp;![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
   &nbsp;![SYMFONY](https://img.shields.io/badge/-SYMFONY-007CF7?style=for-the-badge&logo=SYMFONY&logoColor=white) 
   &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)  
-<!-- #### Framework à apprendre :  
-![VUEJS](https://img.shields.io/badge/-VUEJS-C86A00?style=for-the-badge&logo=VUEJS&logoColor=white) 
-  &nbsp;![ANGULAR](https://img.shields.io/badge/-ANGULAR-007CF7?style=for-the-badge&logo=ANGULAR&logoColor=white) 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
--->
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)-->
+ #### Framework à apprendre :  
+![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUEJS&logoColor=white) 
+  &nbsp;![ANGULAR](https://img.shields.io/badge/-ANGULAR-d00000?style=for-the-badge&logo=ANGULAR&logoColor=white) 
+  &nbsp;![tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind&logoColor=white)  
+  
+<a href="https://github.com/anuraghazra/github-readme-stats" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
+[![trophy](https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
 ### :sunglasses: Mes passes temps :
 <ul>
   <li>:joystick: Les jeux vidéo </li> 
@@ -52,6 +52,6 @@
 https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
 https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white
 https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white
 https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/mariadb-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white
 ->
