@@ -9,8 +9,8 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorian.vericel0546@gmail.com)
 &nbsp;[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-vericel-576461180/) 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)  
-
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)  
+-->
 
 ### :books: Les langages que je connais: 
   ![HTML](https://img.shields.io/badge/-HTML-FA7A3E?style=for-the-badge&logo=HTML5&logoColor=white) 
@@ -37,7 +37,7 @@
   &nbsp;![ANGULAR](https://img.shields.io/badge/-ANGULAR-d00000?style=for-the-badge&logo=ANGULAR&logoColor=white) 
   &nbsp;![tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind&logoColor=white)  
   
-<a href="https://github.com/anuraghazra/github-readme-stats" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
+<!--<a href="https://github.com/anuraghazra/github-readme-stats" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
 ### :sunglasses: Mes passes temps :
 <ul>
