@@ -30,10 +30,15 @@
 #### Framework déja utilisée :  
   ![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
   &nbsp;![SYMFONY](https://img.shields.io/badge/-SYMFONY-007CF7?style=for-the-badge&logo=SYMFONY&logoColor=white) 
-  &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)
-<!--
+  &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)  
+<!-- #### Framework à apprendre :  
+![VUEJS](https://img.shields.io/badge/-VUEJS-C86A00?style=for-the-badge&logo=VUEJS&logoColor=white) 
+  &nbsp;![ANGULAR](https://img.shields.io/badge/-ANGULAR-007CF7?style=for-the-badge&logo=ANGULAR&logoColor=white) 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
 -->
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)-->
 ### :sunglasses: Mes passes temps :
 <ul>
   <li>:joystick: Les jeux vidéo </li> 
