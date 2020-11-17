@@ -36,6 +36,8 @@
 ![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUEJS&logoColor=white) 
   &nbsp;![ANGULAR](https://img.shields.io/badge/-ANGULAR-d00000?style=for-the-badge&logo=ANGULAR&logoColor=white) 
   &nbsp;![tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind&logoColor=white)  
+ <!-- &nbsp;![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-b7e4c7?style=for-the-badge&logo=Nuxtjs&logoColor=white)  
+  &nbsp;![Next.js](https://img.shields.io/badge/-Nextjs-b7e4c7?style=for-the-badge&logo=Nextjs&logoColor=white) -->
   
 <!--<a href="https://github.com/anuraghazra/github-readme-stats" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
