@@ -19,7 +19,7 @@
   &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-EBE148?style=for-the-badge&logo=JavaScript&logoColor=white)
   &nbsp;![SQL](https://img.shields.io/badge/-SQL-14C24B?style=for-the-badge&logo=MySQL&logoColor=white)
   &nbsp;![JAVA](https://img.shields.io/badge/-JAVA-F74B00?style=for-the-badge&logo=JAVA&logoColor=white)  
-
+  &nbsp;![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### :man_student: Les langages que j'apprend/veux apprendre: 
   ![PYTHON](https://img.shields.io/badge/-PYTHON-D8C802?style=for-the-badge&logo=PYTHON&logoColor=white) 
@@ -52,7 +52,6 @@
   
   <!---
 https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
-https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white
 https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white
 https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white
 https://img.shields.io/badge/mariadb-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white
