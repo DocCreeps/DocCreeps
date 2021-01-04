@@ -1,6 +1,6 @@
 
-🎓 Actuellement étudiant en Responsable de Projet Informatique dans l'école <a href="https://www.ecole-isitech.com/" target="_blank">Isitech.</a>  
-🔨 Alternant développeur chez Orange.    
+🎓 Actuellement étudiant en Expert en Systèmes d'information dans l'école <a href="https://www.ecole-isitech.com/" target="_blank">Isitech.</a>  
+🔨 En recherche d'alternance.    
 💻 Passioné d'informatique et de nouvelles technologies.  
 
 
