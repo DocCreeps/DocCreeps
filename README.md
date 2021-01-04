@@ -18,7 +18,7 @@
   &nbsp;![PHP](https://img.shields.io/badge/-PHP-1B8ECF?style=for-the-badge&logo=PHP&logoColor=white)
   &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-EBE148?style=for-the-badge&logo=JavaScript&logoColor=white)
   &nbsp;![SQL](https://img.shields.io/badge/-SQL-14C24B?style=for-the-badge&logo=MySQL&logoColor=white)
-  &nbsp;![JAVA](https://img.shields.io/badge/-JAVA-F74B00?style=for-the-badge&logo=JAVA&logoColor=white)  
+  &nbsp;![JAVA](https://img.shields.io/badge/-JAVA-F74B00?style=for-the-badge&logo=JAVA&logoColor=white)
   &nbsp;![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### :man_student: Les langages que j'apprend/veux apprendre: 
