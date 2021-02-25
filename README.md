@@ -34,7 +34,8 @@
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-023e8a?style=for-the-badge&logo=BOOTSTRAP&logoColor=white) 
   &nbsp;![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
   &nbsp;![SYMFONY](https://img.shields.io/badge/-SYMFONY-007CF7?style=for-the-badge&logo=SYMFONY&logoColor=white) 
-  &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)  
+  &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white) 
+  <!-- jquery -->
  #### Framework à apprendre :  
 ![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUEJS&logoColor=white) 
   &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXTJS&logoColor=white) 
