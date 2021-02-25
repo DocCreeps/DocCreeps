@@ -1,6 +1,6 @@
 
 🎓 Actuellement étudiant en Expert en Systèmes d'information dans l'école <a href="https://www.ecole-isitech.com/" target="_blank">Isitech.</a>  
-🔨 En recherche d'alternance.    
+🔨 Alternant Responsable de projet erp et gestion applicatif metier/webmaster chez Skyepharma  
 💻 Passioné d'informatique et de nouvelles technologies.  
 
 
@@ -38,7 +38,8 @@
  #### Framework à apprendre :  
 ![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUEJS&logoColor=white) 
   &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXTJS&logoColor=white) 
-  &nbsp;![tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind&logoColor=white)  
+  &nbsp;![tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind&logoColor=white)
+  &nbsp;![Sementical ui](https://img.shields.io/badge/-Sementicalui-45B31C?style=for-the-badge&logo=Sementicalui&logoColor=white) 
  <!-- &nbsp;![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-b7e4c7?style=for-the-badge&logo=Nuxtjs&logoColor=white)  
   &nbsp;![Next.js](https://img.shields.io/badge/-Nextjs-b7e4c7?style=for-the-badge&logo=Nextjs&logoColor=white) -->
   
