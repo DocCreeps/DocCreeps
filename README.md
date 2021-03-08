@@ -25,8 +25,8 @@
   <!--bash, bat, c++, vbs -->
 
 #### :man_student: Les langages que j'apprend/veux apprendre: 
-  ![PYTHON](https://img.shields.io/badge/-PYTHON-D8C802?style=for-the-badge&logo=PYTHON&logoColor=white) 
-  &nbsp;![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-CF72E1?style=for-the-badge&logo=GRAPHQL&logoColor=white)
+  <!--![PYTHON](https://img.shields.io/badge/-PYTHON-D8C802?style=for-the-badge&logo=PYTHON&logoColor=white) -->
+  ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-CF72E1?style=for-the-badge&logo=GRAPHQL&logoColor=white)
   &nbsp;![NOSQL](https://img.shields.io/badge/-NOSQL-02AEC6?style=for-the-badge&logo=NOSQL&logoColor=white) 
   &nbsp;![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-007CF7?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)  
   
