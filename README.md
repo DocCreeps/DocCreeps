@@ -21,14 +21,14 @@
   &nbsp;![JAVA](https://img.shields.io/badge/-JAVA-F74B00?style=for-the-badge&logo=JAVA&logoColor=white)
   &nbsp;![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
   &nbsp;![VBA](https://img.shields.io/badge/-VBA-23C458?style=for-the-badge&logo=VBA&logoColor=white)
-  
+  <!--![PYTHON](https://img.shields.io/badge/-PYTHON-D8C802?style=for-the-badge&logo=PYTHON&logoColor=white) -->
   <!--bash, bat, c++, vbs -->
 
 #### :man_student: Les langages que j'apprend/veux apprendre: 
-  <!--![PYTHON](https://img.shields.io/badge/-PYTHON-D8C802?style=for-the-badge&logo=PYTHON&logoColor=white) -->
   ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-CF72E1?style=for-the-badge&logo=GRAPHQL&logoColor=white)
   &nbsp;![NOSQL](https://img.shields.io/badge/-NOSQL-02AEC6?style=for-the-badge&logo=NOSQL&logoColor=white) 
   &nbsp;![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-007CF7?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)  
+  
   
 #### Framework déja utilisée :  
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-023e8a?style=for-the-badge&logo=BOOTSTRAP&logoColor=white) 
