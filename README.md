@@ -1,5 +1,5 @@
 
-🎓 Actuellement étudiant en Expert en Systèmes d'information dans l'école <a href="https://www.ecole-isitech.com/" target="_blank">Isitech.</a>  
+🎓 Actuellement étudiant en Master Expert en Systèmes d'information dans l'école <a href="https://www.ecole-isitech.com/" target="_blank">Isitech.</a>  
 🔨 Alternant Responsable de projet erp et Développeur applicatif metier/webmaster chez Skyepharma  
 💻 Passioné d'informatique et de nouvelles technologies.  
 
