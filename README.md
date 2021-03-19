@@ -40,10 +40,23 @@
 ![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUEJS&logoColor=white) 
   &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXTJS&logoColor=white) 
   &nbsp;![tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind&logoColor=white)
- <!-- &nbsp;![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-b7e4c7?style=for-the-badge&logo=Nuxtjs&logoColor=white)  
-  &nbsp;![Next.js](https://img.shields.io/badge/-Nextjs-b7e4c7?style=for-the-badge&logo=Nextjs&logoColor=white) -->
+ <!-- &nbsp;![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-b7e4c7?style=for-the-badge&logo=Nuxtjs&logoColor=white)   -->
   
 <!--<a href="https://github.com/anuraghazra/github-readme-stats" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  -->
+
+#### OS :  
+![Windows](https://img.shields.io/badge/-Windows-07def3?style=for-the-badge&logo=Windows&logoColor=white) 
+&nbsp;![LINUX](https://img.shields.io/badge/-Linux-e6f900?style=for-the-badge&logo=Linux&logoColor=black) 
+&nbsp;![Android](https://img.shields.io/badge/-Android-52b788?style=for-the-badge&logo=Android&logoColor=white) 
+&nbsp;![Redhat](https://img.shields.io/badge/-Redhat-f90f00?style=for-the-badge&logo=RedHat&logoColor=white) 
+&nbsp;![Debian](https://img.shields.io/badge/-Debian-eaa703?style=for-the-badge&logo=Debian&logoColor=white)
+&nbsp;![Ubuntu](https://img.shields.io/badge/-Ubuntu-d9ea03?style=for-the-badge&logo=Ubuntu&logoColor=white)
+<!--- &nbsp;![KaliLinux](https://img.shields.io/badge/-KaliLinux-52b788?style=for-the-badge&logo=KaliLinux&logoColor=white)
+### Autre :
+raspberry 
+arduino
+--->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
 ### :sunglasses: Mes passes temps :
 <ul>
