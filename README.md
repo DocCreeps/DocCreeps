@@ -46,8 +46,8 @@
 
 #### OS :  
 ![Windows](https://img.shields.io/badge/-Windows-07def3?style=for-the-badge&logo=Windows&logoColor=white) 
-&nbsp;![LINUX](https://img.shields.io/badge/-Linux-e6f900?style=for-the-badge&logo=Linux&logoColor=black) 
 &nbsp;![Android](https://img.shields.io/badge/-Android-52b788?style=for-the-badge&logo=Android&logoColor=white) 
+&nbsp;![LINUX](https://img.shields.io/badge/-Linux-e6f900?style=for-the-badge&logo=Linux&logoColor=black)
 &nbsp;![Redhat](https://img.shields.io/badge/-Redhat-f90f00?style=for-the-badge&logo=RedHat&logoColor=white) 
 &nbsp;![Debian](https://img.shields.io/badge/-Debian-eaa703?style=for-the-badge&logo=Debian&logoColor=white)
 &nbsp;![Ubuntu](https://img.shields.io/badge/-Ubuntu-d9ea03?style=for-the-badge&logo=Ubuntu&logoColor=white)
