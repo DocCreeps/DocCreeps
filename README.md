@@ -3,7 +3,7 @@
 🔨 Alternant Responsable de projet ERP et Développeur applicatif metier/webmaster chez Skyepharma  
 💻 Passioné d'informatique et de nouvelles technologies.  
 
-
+<!-- https://metrics.lecoq.io/about/Doccreeps-->
 
 ### 📫 Me contacter : 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorian.vericel0546@gmail.com)
