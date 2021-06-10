@@ -58,7 +58,7 @@
 raspberry 
 arduino
 --->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DocCreeps&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DocCreeps&theme=vue-dark)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
 ### :sunglasses: Mes passes temps :
 <ul>
