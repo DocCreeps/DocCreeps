@@ -7,7 +7,6 @@
 <!-- https://metrics.lecoq.io/about/Doccreeps-->
 
 ### 📫 Me contacter : 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorian.vericel0546@gmail.com)
 &nbsp;[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-vericel-576461180/) 
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)  
