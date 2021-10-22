@@ -53,15 +53,26 @@
 &nbsp;![Redhat](https://img.shields.io/badge/-Redhat-f90f00?style=for-the-badge&logo=RedHat&logoColor=white) 
 &nbsp;![Debian](https://img.shields.io/badge/-Debian-eaa703?style=for-the-badge&logo=Debian&logoColor=white)
 &nbsp;![Ubuntu](https://img.shields.io/badge/-Ubuntu-d9ea03?style=for-the-badge&logo=Ubuntu&logoColor=white)
+
+
+### Autre  
+&nbsp;![Wordpress](https://img.shields.io/badge/-Wordpress-03c7ea?style=for-the-badge&logo=Wordpress&logoColor=white)
 <!--- &nbsp;![KaliLinux](https://img.shields.io/badge/-KaliLinux-52b788?style=for-the-badge&logo=KaliLinux&logoColor=white)
 ### Autre :
 raspberry 
 arduino
 --->
+<div name="Stats" align="center">
+   <a href="https://git.io/streak-stats">
+    <img title="🔥 Get streak stats for your profile" alt="Doccreeps's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DocCreeps&theme=vue-dark"/>
+  </a>
+  
+  
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img title="🔥 Get trophy for your profile" alt="Doccreeps's trophy" src="https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox"/>
+  </a>  
+</div>  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DocCreeps&theme=vue-dark&style=centerme)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
- 
 ### :sunglasses: Mes passes temps :
 <ul>
   <li>:joystick: Les jeux vidéo </li> 
