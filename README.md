@@ -56,17 +56,19 @@
 &nbsp;![Debian](https://img.shields.io/badge/-Debian-eaa703?style=for-the-badge&logo=Debian&logoColor=white)
 &nbsp;![Ubuntu](https://img.shields.io/badge/-Ubuntu-d9ea03?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
+<!--- &nbsp;![KaliLinux](https://img.shields.io/badge/-KaliLinux-52b788?style=for-the-badge&logo=KaliLinux&logoColor=white)-->
+
 ### Outils  :  
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-gray?style=for-the-badge&logo=Gitlab&logoColor=white)
 ![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<!--pycharm spyder anaconda jupyter phpstorm netbeans atoms docker raspberry arduino anroid studio react native -->
+<!--pycharm spyder anaconda jupyter phpstorm netbeans atoms docker raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
+
 ### Autre  :
 &nbsp;![Wordpress](https://img.shields.io/badge/-Wordpress-03c7ea?style=for-the-badge&logo=Wordpress&logoColor=white)
-<!--- &nbsp;![KaliLinux](https://img.shields.io/badge/-KaliLinux-52b788?style=for-the-badge&logo=KaliLinux&logoColor=white)
-### Autre :
+<!--### Autre :
 raspberry 
 arduino
 --->
