@@ -32,12 +32,12 @@
   <!-- haskell rust -->
   
   
-#### Framework déja utilisée :  
+#### Framework/Lib déja utilisée :  
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-023e8a?style=for-the-badge&logo=BOOTSTRAP&logoColor=white) 
   &nbsp;![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
   &nbsp;![SYMFONY](https://img.shields.io/badge/-SYMFONY-007CF7?style=for-the-badge&logo=SYMFONY&logoColor=white) 
   &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white) 
-  <!-- jquery -->
+  <!-- jquery, datatable, slidev-->
  #### Framework à apprendre :  
 ![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUEJS&logoColor=white) 
   &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXTJS&logoColor=white) 
@@ -59,6 +59,7 @@
 ### Outils  :  
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-gray?style=for-the-badge&logo=Gitlab&logoColor=white)
 ![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <!--pycharm spyder anaconda jupyter phpstorm netbeans atoms docker raspberry arduino anroid studio react native -->
