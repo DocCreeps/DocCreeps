@@ -27,7 +27,7 @@
 #### :man_student: Les langages que j'apprend/veux apprendre: 
   ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-CF72E1?style=for-the-badge&logo=GRAPHQL&logoColor=white)
   &nbsp;![NOSQL](https://img.shields.io/badge/-NOSQL-02AEC6?style=for-the-badge&logo=NOSQL&logoColor=white) 
-  &nbsp;![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-007CF7?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)  
+  &nbsp;![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-007CF7?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
   &nbsp;![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   <!-- haskell rust -->
   
