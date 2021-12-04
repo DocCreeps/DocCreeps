@@ -63,7 +63,10 @@
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-gray?style=for-the-badge&logo=Gitlab&logoColor=white)
 ![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+![PHPSTORM](https://img.shields.io/badge/PHPSTORM-ff0066?style=for-the-badge&logo=PHPSTORM&logoColor=white)
+![WEBSTORM](https://img.shields.io/badge/WEBSTORM-ff0066?style=for-the-badge&logo=WEBSTORM&logoColor=white)
 ![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-0084e0?style=for-the-badge&logo=Atom&logoColor=white)
 <!--pycharm spyder anaconda jupyter phpstorm netbeans atoms docker raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
 
 ### Autre  :
