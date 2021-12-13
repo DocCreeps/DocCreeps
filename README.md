@@ -41,7 +41,7 @@
  #### Framework à apprendre :  
 ![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUEJS&logoColor=white) 
   &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXTJS&logoColor=white) 
-  &nbsp;![tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind&logoColor=white)
+  &nbsp;![Tailwind](https://img.shields.io/badge/-Tailwind-b7e4c7?style=for-the-badge&logo=Tailwind&logoColor=white)
  <!-- &nbsp;![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-b7e4c7?style=for-the-badge&logo=Nuxtjs&logoColor=white)   -->
   
 <!--<a href="https://github.com/anuraghazra/github-readme-stats" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
