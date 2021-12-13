@@ -36,12 +36,13 @@
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-023e8a?style=for-the-badge&logo=BOOTSTRAP&logoColor=white) 
   &nbsp;![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
   &nbsp;![SYMFONY](https://img.shields.io/badge/-SYMFONY-007CF7?style=for-the-badge&logo=SYMFONY&logoColor=white) 
-  &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white) 
+  &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)
+  &nbsp;![NODEJS](https://img.shields.io/badge/-NODEJS-52b788?style=for-the-badge&logo=NODE.JS&logoColor=white)
   <!-- jquery, datatable, slidev-->
  #### Framework à apprendre :  
-![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUEJS&logoColor=white) 
-  &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXTJS&logoColor=white) 
-  &nbsp;![Tailwind](https://img.shields.io/badge/-Tailwind-b7e4c7?style=for-the-badge&logo=Tailwind&logoColor=white)
+![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUE.JS&logoColor=white) 
+  &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXT.JS&logoColor=white) 
+  &nbsp;![Tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind-css&logoColor=black)
  <!-- &nbsp;![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-b7e4c7?style=for-the-badge&logo=Nuxtjs&logoColor=white)   -->
   
 <!--<a href="https://github.com/anuraghazra/github-readme-stats" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
