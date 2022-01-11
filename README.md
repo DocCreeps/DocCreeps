@@ -68,7 +68,7 @@
 ![WEBSTORM](https://img.shields.io/badge/WEBSTORM-ff0066?style=for-the-badge&logo=WEBSTORM&logoColor=white)
 ![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-0084e0?style=for-the-badge&logo=Atom&logoColor=white)
-<!--pycharm spyder anaconda jupyter phpstorm netbeans atoms docker raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
+<!--pycharm spyder anaconda jupyter phpstorm netbeans docker raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
 
 ### Autre  :
 &nbsp;![Wordpress](https://img.shields.io/badge/-Wordpress-03c7ea?style=for-the-badge&logo=Wordpress&logoColor=white)
