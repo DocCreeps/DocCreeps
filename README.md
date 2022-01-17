@@ -22,7 +22,7 @@
   &nbsp;![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
   &nbsp;![VBA](https://img.shields.io/badge/-VBA-23C458?style=for-the-badge&logo=VBA&logoColor=white)
   &nbsp;![PYTHON](https://img.shields.io/badge/-PYTHON-D8C802?style=for-the-badge&logo=PYTHON&logoColor=white)
-  <!--bash, bat, c++, vbs -->
+  <!--bash, bat, c++, vbs, JSON, YAML, XML-->
 
 #### :man_student: Les langages que j'apprend/veux apprendre: 
   ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-CF72E1?style=for-the-badge&logo=GRAPHQL&logoColor=white)
