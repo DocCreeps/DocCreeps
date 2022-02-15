@@ -67,6 +67,7 @@
 ![PHPSTORM](https://img.shields.io/badge/PHPSTORM-ff0066?style=for-the-badge&logo=PHPSTORM&logoColor=white)
 ![WEBSTORM](https://img.shields.io/badge/WEBSTORM-ff0066?style=for-the-badge&logo=WEBSTORM&logoColor=white)
 ![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS2019/2022](https://img.shields.io/badge/VS2019/2022-0084e0?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-0084e0?style=for-the-badge&logo=Atom&logoColor=white)
 <!--pycharm spyder anaconda jupyter phpstorm netbeans docker raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
 
