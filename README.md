@@ -57,7 +57,8 @@
 &nbsp;![Debian](https://img.shields.io/badge/-Debian-eaa703?style=for-the-badge&logo=Debian&logoColor=white)
 &nbsp;![Ubuntu](https://img.shields.io/badge/-Ubuntu-d9ea03?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-<!--- &nbsp;![KaliLinux](https://img.shields.io/badge/-KaliLinux-52b788?style=for-the-badge&logo=KaliLinux&logoColor=white)-->
+<!--- &nbsp;![KaliLinux](https://img.shields.io/badge/-KaliLinux-52b788?style=for-the-badge&logo=KaliLinux&logoColor=white) fedora mint parrot-->
+
 
 ### Outils  :  
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
@@ -69,10 +70,11 @@
 ![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VS2019/2022](https://img.shields.io/badge/VS2019/2022-0084e0?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-0084e0?style=for-the-badge&logo=Atom&logoColor=white)
-<!--pycharm spyder anaconda jupyter phpstorm netbeans docker raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
+<!--pycharm spyder anaconda jupyter phpstorm netbeans raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
 
 ### Autre  :
 &nbsp;![Wordpress](https://img.shields.io/badge/-Wordpress-03c7ea?style=for-the-badge&logo=Wordpress&logoColor=white)
+&nbsp;![docker](https://img.shields.io/badge/-docker-007CF7?style=for-the-badge&logo=docker&logoColor=white)
 <!--### Autre :
 raspberry 
 arduino
