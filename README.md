@@ -55,10 +55,18 @@
 &nbsp;![LINUX](https://img.shields.io/badge/-Linux-e6f900?style=for-the-badge&logo=Linux&logoColor=black)
 &nbsp;![Redhat](https://img.shields.io/badge/-Redhat-f90f00?style=for-the-badge&logo=RedHat&logoColor=white) 
 &nbsp;![Debian](https://img.shields.io/badge/-Debian-eaa703?style=for-the-badge&logo=Debian&logoColor=white)
-&nbsp;![Ubuntu](https://img.shields.io/badge/-Ubuntu-d9ea03?style=for-the-badge&logo=Ubuntu&logoColor=white)
+&nbsp;![Ubuntu](https://img.shields.io/badge/-ubuntu-d9ea03?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <!--- &nbsp;![KaliLinux](https://img.shields.io/badge/-KaliLinux-52b788?style=for-the-badge&logo=KaliLinux&logoColor=white) fedora mint parrot-->
 
+### BDD :
+![MySQL](https://img.shields.io/badge/mysql-087a8e?&style=for-the-badge&logo=mysql&logoColor=white)
+&nbsp;![Mariadb](https://img.shields.io/badge/mariadb-09434d?&style=for-the-badge&logo=mariadb&logoColor=white)
+&nbsp;![SQLSERVER](https://img.shields.io/badge/SQLSERVER-fe2700?&style=for-the-badge&logo=sqlserver&logoColor=white)
+<!--
+https://img.shields.io/badge/mongodb-%2300f.svg?&style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/hfsql-%2300f.svg?&style=for-the-badge&logo=mongodb&logoColor=white
+-->
 
 ### Outils  :  
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
@@ -72,6 +80,7 @@
 ![Atom](https://img.shields.io/badge/Atom-0084e0?style=for-the-badge&logo=Atom&logoColor=white)
 <!--pycharm spyder anaconda jupyter phpstorm netbeans raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
 
+
 ### Autre  :
 &nbsp;![Wordpress](https://img.shields.io/badge/-Wordpress-03c7ea?style=for-the-badge&logo=Wordpress&logoColor=white)
 &nbsp;![docker](https://img.shields.io/badge/-docker-007CF7?style=for-the-badge&logo=docker&logoColor=white)
@@ -79,6 +88,7 @@
 raspberry 
 arduino
 --->
+
 <div name="Stats" align="center">
    <a href="https://git.io/streak-stats">
     <img title="🔥 Get streak stats for your profile" alt="Doccreeps's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DocCreeps&theme=vue-dark"/>
@@ -99,9 +109,4 @@ arduino
 
 ![Profile views](https://gpvc.arturio.dev/DocCreeps)
   
-  <!---
-https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
-https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/mariadb-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white
-->
+ 
