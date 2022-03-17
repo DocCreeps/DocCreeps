@@ -78,7 +78,9 @@ https://img.shields.io/badge/hfsql-%2300f.svg?&style=for-the-badge&logo=mongodb&
 ![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![VS2019/2022](https://img.shields.io/badge/VS2019/2022-0084e0?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-0084e0?style=for-the-badge&logo=Atom&logoColor=white)
-<!--pycharm spyder anaconda jupyter phpstorm netbeans raspberry arduino anroid studio react native elasticsearch heroku aws travis...-->
+![jupyter](https://img.shields.io/badge/jupyter-C86A00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<!--pycharm spyder anaconda netbeans raspberry arduino anroid studio react native...-->
 
 
 ### Autre  :
