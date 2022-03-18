@@ -62,7 +62,7 @@
 ### BDD :
 ![MySQL](https://img.shields.io/badge/mysql-087a8e?&style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;![Mariadb](https://img.shields.io/badge/mariadb-09434d?&style=for-the-badge&logo=mariadb&logoColor=white)
-&nbsp;![SQLSERVER](https://img.shields.io/badge/SQLSERVER-fe2700?&style=for-the-badge&logo=sqlserver&logoColor=white)
+&nbsp;![SQLSERVER](https://img.shields.io/badge/SQLSERVER-fe2700?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 <!--
 https://img.shields.io/badge/mongodb-%2300f.svg?&style=for-the-badge&logo=mongodb&logoColor=white
 https://img.shields.io/badge/hfsql-%2300f.svg?&style=for-the-badge&logo=mongodb&logoColor=white
