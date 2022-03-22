@@ -1,6 +1,6 @@
 <div name="Head" align="center"><a href="https://git.io/typing-svg"><img title="textsvg" alt="Doccreeps's ProfilTextSvg" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2327F709&center=true&height=100&lines=Chargement+du+profil+...;D%C3%A9veloppeur+en+formation;%F0%9F%98%8E%F0%9F%92%BB%F0%9F%93%B1%F0%9F%96%A5"></a></div>
 
-🎓 Actuellement étudiant en Master Expert en Systèmes d'information dans l'école <a href="https://www.ecole-isitech.com/" target="_blank">Isitech.</a>    
+🎓 Actuellement étudiant en Master 2 Expert en Systèmes d'information dans l'école <a href="https://www.ecole-isitech.com/" target="_blank">Isitech.</a>    
 🔨 Alternant Responsable de projet ERP et Développeur applicatif metier/webmaster chez Skyepharma  
 💻 Passionné d'informatique et de nouvelles technologies.  
 
