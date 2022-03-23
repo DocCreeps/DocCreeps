@@ -39,7 +39,7 @@
   &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)
   &nbsp;![NODEJS](https://img.shields.io/badge/-NODEJS-52b788?style=for-the-badge&logo=NODE.JS&logoColor=white)
   <!-- jquery, datatable, slidev-->
- #### Framework à apprendre :  
+ #### Framework que j'apprend/ veux apprendre :  
 ![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUE.JS&logoColor=white) 
   &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXT.JS&logoColor=white) 
   &nbsp;![Tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind-css&logoColor=black)
