@@ -96,7 +96,8 @@ arduino
     <img title="🔥 Get streak stats for your profile" alt="Doccreeps's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DocCreeps&theme=vue-dark"/>
   </a>
   
-  
+  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&layout=compact)]-->
+  ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DocCreeps&theme=dracula)]
    <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img title="🔥 Get trophy for your profile" alt="Doccreeps's trophy" src="https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox"/>
   </a>  
