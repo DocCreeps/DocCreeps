@@ -40,8 +40,7 @@
   &nbsp;![NODEJS](https://img.shields.io/badge/-NODEJS-52b788?style=for-the-badge&logo=NODE.JS&logoColor=white)
   <!-- jquery, datatable, slidev daucusaurus-->
  #### Framework que j'apprend/ veux apprendre :  
-![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUE.JS&logoColor=white) 
-  &nbsp;![NEXTJS](https://img.shields.io/badge/-NEXTJS-d00000?style=for-the-badge&logo=NEXT.JS&logoColor=white) 
+![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUE.JS&logoColor=white)
   &nbsp;![Tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind-css&logoColor=black)
  <!-- &nbsp;![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-b7e4c7?style=for-the-badge&logo=Nuxtjs&logoColor=white)   -->
   
