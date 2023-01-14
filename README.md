@@ -1,114 +1,123 @@
-<div name="Head" align="center"><a href="https://git.io/typing-svg"><img title="textsvg" alt="Doccreeps's ProfilTextSvg" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2327F709&center=true&height=100&lines=Chargement+du+profil+...;D%C3%A9veloppeur+en+formation;%F0%9F%98%8E%F0%9F%92%BB%F0%9F%93%B1%F0%9F%96%A5"></a></div>
-
-🎓 Actuellement étudiant en Master 2 Expert en Systèmes d'information dans l'école <a href="https://www.ecole-isitech.com/" target="_blank">Isitech.</a>    
-🔨 Alternant Développeur applicatif metier/webmaster et assistant Responsable de projet ERP chez Skyepharma  
-💻 Passionné d'informatique et de nouvelles technologies.  
-
-<!-- https://metrics.lecoq.io/about/Doccreeps-->
-
-### 📫 Me contacter : 
-&nbsp;[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorian-vericel-576461180/) 
-
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)  
--->
-
-### :books: Les langages que je connais: 
-  ![HTML](https://img.shields.io/badge/-HTML-FA7A3E?style=for-the-badge&logo=HTML5&logoColor=white) 
-  &nbsp;![CSS](https://img.shields.io/badge/-CSS-2CCCD1?style=for-the-badge&logo=CSS3&logoColor=white)
-  &nbsp;![PHP](https://img.shields.io/badge/-PHP-1B8ECF?style=for-the-badge&logo=PHP&logoColor=white)
-  &nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-EBE148?style=for-the-badge&logo=JavaScript&logoColor=white)
-  &nbsp;![SQL](https://img.shields.io/badge/-SQL-14C24B?style=for-the-badge&logo=MySQL&logoColor=white)
-  &nbsp;![JAVA](https://img.shields.io/badge/-JAVA-F74B00?style=for-the-badge&logo=JAVA&logoColor=white)
-  &nbsp;![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-  &nbsp;![VBA](https://img.shields.io/badge/-VBA-23C458?style=for-the-badge&logo=VBA&logoColor=white)
-  &nbsp;![PYTHON](https://img.shields.io/badge/-PYTHON-D8C802?style=for-the-badge&logo=PYTHON&logoColor=white)
-  <!--bash, bat, c++, vbs, JSON, YAML, XML-->
-
-#### :man_student: Les langages que j'apprend/veux apprendre: 
-  ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-CF72E1?style=for-the-badge&logo=GRAPHQL&logoColor=white)
-  &nbsp;![MONGODB](https://img.shields.io/badge/-MONGODB-02AEC6?style=for-the-badge&logo=MONGODB&logoColor=white) 
-  &nbsp;![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-007CF7?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
-  &nbsp;![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  <!-- haskell rust solidity/WEB3-->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2327F709&center=true&height=100&lines=Chargement+du+profil+...;D%C3%A9veloppeur+en+formation;%F0%9F%98%8E%F0%9F%92%BB%F0%9F%93%B1%F0%9F%96%A5" align="center" style="width: 50%" />
+</div>  
   
+
+### <div align="center"></div>  
   
-#### Framework/Lib déja utilisée :  
-  ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-023e8a?style=for-the-badge&logo=BOOTSTRAP&logoColor=white) 
-  &nbsp;![LARAVEL](https://img.shields.io/badge/-LARAVEL-C86A00?style=for-the-badge&logo=LARAVEL&logoColor=white) 
-  &nbsp;![SYMFONY](https://img.shields.io/badge/-SYMFONY-007CF7?style=for-the-badge&logo=SYMFONY&logoColor=white) 
-  &nbsp;![REACT](https://img.shields.io/badge/-REACT-00C2C8?style=for-the-badge&logo=REACT&logoColor=white)
-  &nbsp;![NODEJS](https://img.shields.io/badge/-NODEJS-52b788?style=for-the-badge&logo=NODE.JS&logoColor=white)
-  <!-- jquery, datatable, slidev daucusaurus-->
- #### Framework que j'apprend/ veux apprendre :  
-![VUEJS](https://img.shields.io/badge/-VUEJS-52b788?style=for-the-badge&logo=VUE.JS&logoColor=white)
-  &nbsp;![Tailwind](https://img.shields.io/badge/-tailwind-b7e4c7?style=for-the-badge&logo=tailwind-css&logoColor=black)
- <!-- &nbsp;![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-b7e4c7?style=for-the-badge&logo=Nuxtjs&logoColor=white)   -->
+
+- 🎓 Currently studying in Master 2 Expert in Information Systems in Isitech school.  
   
-<!--<a href="https://github.com/anuraghazra/github-readme-stats" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&show_icons=true&theme=gruvbox&count_private=true)</a>  
-### Base de données -->
 
-
-#### OS :  
-![Windows](https://img.shields.io/badge/-Windows-07def3?style=for-the-badge&logo=Windows&logoColor=white) 
-&nbsp;![Android](https://img.shields.io/badge/-Android-52b788?style=for-the-badge&logo=Android&logoColor=white) 
-&nbsp;![LINUX](https://img.shields.io/badge/-Linux-e6f900?style=for-the-badge&logo=Linux&logoColor=black)
-&nbsp;![Redhat](https://img.shields.io/badge/-Redhat-f90f00?style=for-the-badge&logo=RedHat&logoColor=white) 
-&nbsp;![Debian](https://img.shields.io/badge/-Debian-eaa703?style=for-the-badge&logo=Debian&logoColor=white)
-&nbsp;![Ubuntu](https://img.shields.io/badge/-ubuntu-d9ea03?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<!--- &nbsp;![KaliLinux](https://img.shields.io/badge/-KaliLinux-52b788?style=for-the-badge&logo=KaliLinux&logoColor=white) fedora mint parrot-->
-
-### BDD :
-![MySQL](https://img.shields.io/badge/mysql-087a8e?&style=for-the-badge&logo=mysql&logoColor=white)
-&nbsp;![Mariadb](https://img.shields.io/badge/mariadb-09434d?&style=for-the-badge&logo=mariadb&logoColor=white)
-&nbsp;![SQLSERVER](https://img.shields.io/badge/SQLSERVER-fe2700?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-<!--
-https://img.shields.io/badge/mongodb-%2300f.svg?&style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/hfsql-%2300f.svg?&style=for-the-badge&logo=mongodb&logoColor=white
--->
-
-### Outils  :  
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
-![Gitlab](https://img.shields.io/badge/Gitlab-gray?style=for-the-badge&logo=Gitlab&logoColor=white)
-![Intelij IDEA](https://img.shields.io/badge/Intelij-ff0066?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
-![PHPSTORM](https://img.shields.io/badge/PHPSTORM-ff0066?style=for-the-badge&logo=PHPSTORM&logoColor=white)
-![WEBSTORM](https://img.shields.io/badge/WEBSTORM-ff0066?style=for-the-badge&logo=WEBSTORM&logoColor=white)
-![VScode](https://img.shields.io/badge/VScode-0084e0?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![VS2019/2022](https://img.shields.io/badge/VS2019/2022-0084e0?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-0084e0?style=for-the-badge&logo=Atom&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-C86A00?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<!--pycharm spyder anaconda netbeans raspberry arduino anroid studio react native...-->
-
-
-### Autre  :
-&nbsp;![Wordpress](https://img.shields.io/badge/-Wordpress-03c7ea?style=for-the-badge&logo=Wordpress&logoColor=white)
-&nbsp;![docker](https://img.shields.io/badge/-docker-007CF7?style=for-the-badge&logo=docker&logoColor=white)
-<!--### Autre :
-raspberry 
-arduino
---->
-
-<div name="Stats" align="center">
-   <a href="https://git.io/streak-stats">
-    <img title="🔥 Get streak stats for your profile" alt="Doccreeps's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DocCreeps&theme=vue-dark"/>
-  </a>
+- 🔨 Alternating Application Developer metier/webmaster and ERP project manager assistant at Skyepharma  
   
-  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocCreeps&layout=compact)]-->
-  <!--![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DocCreeps&theme=dracula)]-->
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img title="🔥 Get trophy for your profile" alt="Doccreeps's trophy" src="https://github-profile-trophy.vercel.app/?username=DocCreeps&theme=gruvbox"/>
-  </a>  
+
+- 💻 Passionate about IT and new technologies.  
+  
+
+<br/>  
+
+
+## 💻 My Skill Set  
+<table><tr><td valign="top" width="25%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="25%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="25%">
+
+
+
+### Database  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>  
 
-### :sunglasses: Mes passes temps :
-<ul>
-  <li>:joystick: Les jeux vidéo </li> 
-  <li>:film_strip: Cinéma </li> 
-  <li>:blue_book:  Lecture </li>
-</ul>  
 
-![Profile views](https://gpvc.arturio.dev/DocCreeps)
+
+
+</td><td valign="top" width="25%">
+
+
+
+### Other  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+ <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+</div>
+
+</td>
   
- 
+  </tr></table>  
+
+<br/>  
+
+
+## 🌐 Connect with me  
+<div align="center">
+<a href="https://github.com/Doccreeps" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/dorianvericel" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+## 🏆 Github Trophies  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Doccreeps&theme=matrix&no-frame=true&no-bg=true&margin-w=4" align="center" /></div>
+
+<br/>
+
+## 📊 Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Doccreeps&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" /></div>  </br>
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Doccreeps&theme=tokyonight&hide_border=true" align="center" /></div>    </br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doccreeps&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></div>    </br>
+
+<br/>  
+
+---
+<div align="center">
+<img src="https://gpvc.arturio.dev/DocCreeps" align="center" />
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/Doccreeps) 
+
+  </div>  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
