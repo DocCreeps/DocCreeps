@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2327F709&center=true&height=100&lines=Chargement+du+profil+...;D%C3%A9veloppeur+en+formation;%F0%9F%98%8E%F0%9F%92%BB%F0%9F%93%B1%F0%9F%96%A5" align="center" style="width: 50%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2327F709&center=true&height=100&lines=Chargement+du+profil+...;D%C3%A9veloppeur+en+formation;%F0%9F%98%8E%F0%9F%92%BB%F0%9F%93%B1%F0%9F%96%A5" align="center" />
 </div>  
   
 
