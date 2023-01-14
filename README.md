@@ -18,12 +18,9 @@
 <br/>  
 
 
-## 💻 My Skill Set  
-<table><tr><td valign="top" width="25%">
-
 
 # 💻 Tech Stack:
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" >
 
 
 
@@ -40,7 +37,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-</td><td valign="top" width="25%">
+</td><td valign="top">
 
 
 
@@ -62,7 +59,7 @@
 
 
 
-</td><td valign="top" width="25%">
+</td><td valign="top">
 
 ### Database 
 
@@ -78,7 +75,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-</td><td valign="top" width="25%">
+</td><td valign="top">
 
 
 
