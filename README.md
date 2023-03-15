@@ -4,12 +4,8 @@
   
 
 ### <div align="center"></div>  
-  
 
-- 🎓 Currently studying in Master 2 Expert in Information Systems in Isitech school.  
-  
-
-- 🔨 Alternating Application Developer metier/webmaster and ERP project manager assistant at Skyepharma  
+- 🔨 Application Developer metier
   
 
 - 💻 Passionate about IT and new technologies.  
