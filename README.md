@@ -84,20 +84,27 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-C51A4A?style=for-the-badge&logo=GraphQL) 
+
 
 
 ### OS  
-![Windows](https://img.shields.io/badge/-Windows-07def3?style=for-the-badge&logo=Windows&logoColor=white) 
+![Windows](https://img.shields.io/badge/-Windows-230db7ed?style=for-the-badge&logo=Windows&logoColor=white) 
 ![Android](https://img.shields.io/badge/-Android-52b788?style=for-the-badge&logo=Android&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/-Linux-e6f900?style=for-the-badge&logo=Linux&logoColor=black)
 ![Redhat](https://img.shields.io/badge/-Redhat-f90f00?style=for-the-badge&logo=RedHat&logoColor=white) 
 ![Debian](https://img.shields.io/badge/-Debian-eaa703?style=for-the-badge&logo=Debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-d9ea03?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+ 
+ ### Learning 
+![GraphQL](https://img.shields.io/badge/-GraphQL-C51A4A?style=for-the-badge&logo=GraphQL) 
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
 
 </td></tr></table>  
 <br/>  
+
+
 <!-- Graphql Astro vuejs rust Go, haskell-->
 
 ## 🌐 Connect with me  
