@@ -33,7 +33,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Livewire](https://img.shields.io/badge/livewire-%23FF2D20.svg?style=for-the-badge&logo=livewire&logoColor=white) 
-  <!--![datatables](https://img.shields.io/badge/livewire-%23FF2D20.svg?style=for-the-badge&logo=livewire&logoColor=white) -->
 </td><td valign="top">
 
 
@@ -98,9 +97,11 @@
 
  
  ### Learning 
+
+![Filament](https://img.shields.io/badge/-Filament-C51A4A?style=for-the-badge&logo=Filament) 
+![Jeststream](https://img.shields.io/badge/-Jetstream-C51A4A?style=for-the-badge&logo=JetStream) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-C51A4A?style=for-the-badge&logo=GraphQL) 
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
 
 </td></tr></table>  
 <br/>  
