@@ -5,10 +5,10 @@
 
 ### <div align="center"></div>  
 
-- 🔨 Application Developer metier
+- 🔨 business application developer
   
 
-- 💻 Passionate about IT and new technologies.  
+- 💻 Passionate about IT and new technology.  
   
 
 <br/>  
