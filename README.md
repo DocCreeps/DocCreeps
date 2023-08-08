@@ -100,8 +100,7 @@
 
 ![Filament](https://img.shields.io/badge/-Filament-C51A4A?style=for-the-badge&logo=Filament) 
 ![NativePHP](https://img.shields.io/badge/-NativePHP-C51A4A?style=for-the-badge&logo=NativePHP) 
-![Jeststream](https://img.shields.io/badge/-Jetstream-C51A4A?style=for-the-badge&logo=JetStream) 
-
+![Jeststream](https://img.shields.io/badge/-Jetstream-C51A4A?style=for-the-badge&logo=JetStream)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-C51A4A?style=for-the-badge&logo=GraphQL) 
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
