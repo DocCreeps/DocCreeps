@@ -5,7 +5,7 @@
 
 ### <div align="center"></div>  
 
-- 🔨 software enginner
+- 🔨 Software Enginner
   
 
 - 💻 Passionate about IT and new technology.
