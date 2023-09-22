@@ -5,10 +5,11 @@
 
 ### <div align="center"></div>  
 
-- 🔨 business application developer
+- 🔨 software enginner
   
 
-- 💻 Passionate about IT and new technology.  
+- 💻 Passionate about IT and new technology.
+  
   
 
 <br/>  
