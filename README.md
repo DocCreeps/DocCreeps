@@ -108,7 +108,7 @@
 </td></tr></table>  
 <br/>  
 
-
+ ![An image of @doccreeps's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/doccreeps)
 <!-- Graphql Astro vuejs rust Go, haskell-->
 
 ## 🌐 Connect with me  
@@ -137,7 +137,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doccreeps&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></div>    </br>
 
 <br/>  
-
+ 
 ---
 <div align="center">
 <img src="https://gpvc.arturio.dev/DocCreeps" align="center" />
