@@ -102,7 +102,6 @@
 ![Filament](https://img.shields.io/badge/-Filament-C51A4A?style=for-the-badge&logo=Filament) 
 ![Jeststream](https://img.shields.io/badge/-Jetstream-C51A4A?style=for-the-badge&logo=JetStream)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-C51A4A?style=for-the-badge&logo=GraphQL)
-![NativePHP](https://img.shields.io/badge/-NativePHP-C51A4A?style=for-the-badge&logo=NativePHP)  
 ![Rust](https://img.shields.io/badge/Rust-35495E?style=for-the-badge&logo=rust&logoColor=4FC08D)
 
 </td></tr></table>  
