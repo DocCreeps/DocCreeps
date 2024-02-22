@@ -6,8 +6,7 @@
 ### <div align="center"></div>  
 
 - 🔨 Software Enginner
-  
-
+- 🔭 I’m currently learning TALL Stack
 - 💻 Passionate about IT and new technology.
   
   
@@ -31,9 +30,10 @@
 ### Framework/Librairies Front
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Livewire](https://img.shields.io/badge/livewire-%23FF2D20.svg?style=for-the-badge&logo=livewire&logoColor=white) 
+![Alpine JS](https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 </td><td valign="top">
 
 
@@ -79,12 +79,14 @@
 
 ### Other  
 ![VBA](https://img.shields.io/badge/-VBA-23C458?style=for-the-badge&logo=VBA&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-gray?style=for-the-badge&logo=Gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
@@ -110,15 +112,7 @@
  ![An image of @doccreeps's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/doccreeps)
 <!-- Graphql Astro vuejs rust Go, haskell-->
 
-## 🌐 Connect with me  
-<div align="center">
-<a href="https://github.com/Doccreeps" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dorianvericel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
   
 
 <br/>  
@@ -131,18 +125,12 @@
 
 ## 📊 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Doccreeps&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" /></div>  </br>
-
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DocCreeps&theme=radical" /></div>    </br>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Doccreeps&theme=tokyonight&hide_border=true" align="center" /></div>    </br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doccreeps&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></div>    </br>
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DocCreeps&custom_title=DocCreeps%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" /></div>    </br>
 
-<br/>  
+
+<br/> 
+
  
----
-<div align="center">
-<img src="https://gpvc.arturio.dev/DocCreeps" align="center" />
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Doccreeps) 
-
-  </div>  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
