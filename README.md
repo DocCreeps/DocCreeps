@@ -1,18 +1,13 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2327F709&center=true&height=100&lines=Chargement+du+profil+...;D%C3%A9veloppeur+en+formation;%F0%9F%98%8E%F0%9F%92%BB%F0%9F%93%B1%F0%9F%96%A5" align="center" />
-</div>  
+<a href="https://dorianvericel.fr"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF700&center=true&vCenter=true&random=false&width=435&lines=Profile+Loading+....;Full-Stack+Developer;%F0%9F%90%98+Laravel+%26+Tall+Stack+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+</div>
   
 
-### <div align="center"></div>  
-
-- 🔨 Software Enginner
+- 🔨 I'm Software Developer
 - 🔭 I’m currently learning TALL Stack
 - 💻 Passionate about IT and new technology.
   
-  
-
 <br/>  
-
 
 
 # 💻 Tech Stack:
