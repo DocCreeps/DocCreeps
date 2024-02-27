@@ -4,7 +4,7 @@
   
 
 - 🔨 I'm Software Developer
-- 🔭 I’m currently learning TALL Stack
+- 🔭 I’m currently using TALL Stack
 - 💻 Passionate about IT and new technology.
   
 <br/>  
