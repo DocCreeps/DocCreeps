@@ -3,7 +3,7 @@
 </div>
   
 
-- 🔨 I'm Full Stack developper  
+- 🔨 I'm Full Stack developer  
 - 🔭 I’m currently using TALL Stack
 - 💻 Passionate about IT and new technology.
   
