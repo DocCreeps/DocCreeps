@@ -74,12 +74,6 @@
 
 <br/>  
 
-## 🏆 Github Trophies  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Doccreeps&theme=matrix&no-frame=true&no-bg=true&margin-w=4" align="center" /></div>
-
-<br/>
-
 ## 📊 Github Stats  
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; text-align: center;">
     <div>
