@@ -63,7 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"  height="40" />=
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"  height="40" />
   <img width="12" />
   <img src="https://img.shields.io/badge/-Filament-C51A4A?style=for-the-badge&logo=Filament" height="40" alt="Filament" />
 </div>
